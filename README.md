@@ -76,3 +76,14 @@ These tables receive `TF-003` and are never changed automatically. This protects
 ## Compatibility
 
 The script is written for Adobe InDesign ExtendScript / ECMAScript 3 compatibility.
+
+## License
+
+Copyright (C) 2026 John Darby
+
+TableFix is free software, released under the GNU General Public License,
+version 3 or later. You may redistribute and modify it under those terms.
+See [LICENSE](LICENSE) for the full text.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY. See the GNU General Public License for details.
